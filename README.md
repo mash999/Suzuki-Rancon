@@ -1,4 +1,4 @@
-# Suzuki-Rancon
+# Suzuki/Rancon
 
 Rancon motors is a large manufacturing company in Bangladesh that manufactures and assembles Suzuki bike parts. This project was developed to provide them with an inventory management system that covers the daily work they have to do in their facility. 
 
